@@ -1,0 +1,546 @@
+﻿Parent,Standard Name,Clause Number,Clause Title,Clause Description,Applicable,Applicability,Heading
+,DESC-ICS,1,Information Security Management and Governance,,Yes,Company,Yes
+,DESC-ICS,2,ICS Asset Management,,Yes,Company,Yes
+2,DESC-ICS,2.1,ICS Asset Management,,Yes,Company,Yes
+2.1,DESC-ICS,2.1.1,ICS Asset Management,"Develops, distributes and maintains an ICS asset management policy and procedures that are aligned with the organization wide information asset management policy and procedure for the identification, management and protection of ICS assets in line with applicable laws and regulations.",Yes,Company,No
+2.1,DESC-ICS,2.1.2,ICS Asset Management,"Identifies, documents, and maintains an asset register of all critical ICS assets for the entire ICS environment, including the related ICS facilities and components, such as PLCs, RTUs, SCADA/DCS servers, engineering stations, operators stations, network devices, software assets, people assets, physical assets, etc. and consider other details such as, asset classification, physical location, license details, business value, and any other necessary information that may be required to avoid risks and recover from disasters.",Yes,Company,No
+2.1,DESC-ICS,2.1.3,ICS Asset Management,The organization appoints designated employees with the responsibility to perform periodic review of the asset management register and enforce policies and procedures to periodically update the register for accuracy,Yes,Company,No
+2.1,DESC-ICS,2.1.4,ICS Asset Management,"In case of utilizing asset inventory tools, the organization ensures appropriate testing of the tool in non-production environments prior to deployment in the ICS production environment.",Yes,Company,No
+2.1,DESC-ICS,2.1.5,ICS Asset Management,Keeps inventory of all physical access devices owned by the organization.,Yes,Company,No
+2,DESC-ICS,2.2,ICS Assets Ownership/Custodianship,,Yes,Company,Yes
+2.2,DESC-ICS,2.2.1,ICS Assets Ownership/Custodianship,"Establishes and implements ICS asset ownership policy, where ICS assets are identified with an owner. Business processes, services, applications, ICS systems, or set of data are examples of assets that ownership should be allocated to.",Yes,Company,No
+2.2,DESC-ICS,2.2.2,ICS Assets Ownership/Custodianship,Assigns the ICS assets owner the responsibility of ensuring that classifications of ICS assets are carried out based on the sensitivity of operations.,Yes,Company,No
+2.2,DESC-ICS,2.2.3,ICS Assets Ownership/Custodianship,Assigns the ICS assets owner the responsibility of defining the access control (physical & logical) to the ICS assets and ensuring periodic review of access in accordance with assigned classification level and the organization’s access control policy.,Yes,Company,No
+2.2,DESC-ICS,2.2.4,ICS Assets Ownership/Custodianship,"Assigns the owner the responsibility of maintaining the day to day operational tasks related to the ICS assets, while considering the higher authority of the assets by the owners.",Yes,Company,No
+2,DESC-ICS,2.3,ICS Assets Classification,,Yes,Company,Yes
+2.3,DESC-ICS,2.3.1,ICS Assets Classification,"Defines and implements a classification scheme/ process for ICS assets to be used within the organization based on ICS assets criticality, value, legal and protection requirements, etc. in line with applicable laws and regulations.",Yes,Company,No
+2.3,DESC-ICS,2.3.2,ICS Assets Classification,"Develops, distributes and maintains ICS classification policy and related procedures in line with applicable laws and regulations, for e.g. data classification regulations provided by the Emirate of Dubai",Yes,Company,No
+2.3,DESC-ICS,2.3.3,ICS Assets Classification,"Ensures classification of ICS assets based on criticality. The organization defines criticality of the ICS assets by deriving the Availability, Integrity and Confidentiality ratings of individual ICS systems and based on the impact to the safety functionalities of the system.",Yes,Company,No
+2.3,DESC-ICS,2.3.4,ICS Assets Classification,Ensures periodic asset review for enabling an update of the Asset register.,Yes,Company,No
+2,DESC-ICS,2.4,ICS Assets Labeling and Handling,,Yes,Company,Yes
+2.4,DESC-ICS,2.4.1,ICS Assets Labeling and Handling,"Defines and implements adequate labeling and handling controls for the ICS assets (electronic and physical); according to the requirements of each classification level, considering the handling requirements, storage procedures, distribution limitations, etc., for each ICS asset.",Yes,Company,No
+2.4,DESC-ICS,2.4.2,ICS Assets Labeling and Handling,"Develops, distributes and maintains procedure for the ICS assets labeling and handling requirements.",Yes,Company,No
+2,DESC-ICS,2.5,ICS Assets Labeling and Handling,,Yes,Company,Yes
+2.5,DESC-ICS,2.5.1,ICS Assets Labeling and Handling,"Identifies and implements the required safety and security measures prior to the disposal of ICS assets based on their value, criticality and sensitivity. This should be applied to ICS assets that either reached the End of life or are no longer needed for operations.",Yes,Company,No
+2.5,DESC-ICS,2.5.2,ICS Assets Labeling and Handling,"Develops, distributes and maintains clear procedure for the process of disposal of ICS assets, which includes irretrievably erasing all information including any code or configurations before securely physically disposing such assets.",Yes,Company,No
+2,DESC-ICS,2.6,ICS Assets Responsibility,,Yes,Company,Yes
+2.6,DESC-ICS,2.6.1,ICS Assets Responsibility,"Develops, distributes and maintains an acceptable use policy governing the use of ICS assets including restricting usage of personal devices in or nearICS environment.",Yes,Company,No
+,DESC-ICS,3,ICS Security and Risk Management,,Yes,Company,Yes
+3,DESC-ICS,3.1,Risk Assessment Methodology & Planning,,Yes,Company,Yes
+3.1,DESC-ICS,3.1.1,Risk Assessment Methodology & Planning,"Develops a risk assessment methodology that aligns with the requirements of the organization’s information security program, covering the life cycle of the ICS asset (from identification till disposal).",Yes,Company,No
+3.1,DESC-ICS,3.1.2,Risk Assessment Methodology & Planning,Determines a periodic plan for conducting the risk assessment across the organization's operational/production environments.,Yes,Company,No
+3.1,DESC-ICS,3.1.3,Risk Assessment Methodology & Planning,Identifies the criteria of acceptable risks as part of the risk assessment methodology.,Yes,Company,No
+3.1,DESC-ICS,3.1.4,Risk Assessment Methodology & Planning,"Identifies the scope of the risk assessments involving key stakeholders, around their business processes & respective critical ICS assets that will be included in the assessment.",Yes,Company,No
+3.1,DESC-ICS,3.1.5,Risk Assessment Methodology & Planning,Plans and implements a periodic awareness of the risk assessment program across the organization.,Yes,Company,No
+3,DESC-ICS,3.2,Risk Assessment,,Yes,Company,Yes
+3.2,DESC-ICS,3.2.1,Risk Assessment,"Conducts & maintains a detailed risk assessment addressing various types of risks (E.g. Security, Health & Safety, Environmental, etc.), for the identified critical information assets, in accordance with the approved risk assessment methodology.",Yes,Company,No
+3.2,DESC-ICS,3.2.2,Risk Assessment,"Analyses risks and prioritizes them based on the criticality, to set treatment plans and controls.",Yes,Company,No
+3.2,DESC-ICS,3.2.3,Risk Assessment,Determines and identifies the acceptable risks in accordance with the risk assessment methodology.,Yes,Company,No
+3.2,DESC-ICS,3.2.4,Risk Assessment,"Documents the risk assessment results in a risk register, which is approved officially by higher management. The risk register shall be updated on a continuous basis.",Yes,Company,No
+3,DESC-ICS,3.3,Risk Treatment and Mitigation,,Yes,Company,Yes
+3.3,DESC-ICS,3.3.1,Risk Treatment and Mitigation,"Selects the risk treatment plans (mitigate, avoid, transfer, etc.) for the identified risks, approved by the higher management.",Yes,Company,No
+3.3,DESC-ICS,3.3.2,Risk Treatment and Mitigation,Performs and implements the mitigation controls for the risks identified.,Yes,Company,No
+3.3,DESC-ICS,3.3.3,Risk Treatment and Mitigation,Reviews and monitors the implemented risk mitigation controls for effectiveness.,Yes,Company,No
+3,DESC-ICS,3.4,Risk Acceptance,,Yes,Company,Yes
+3.4,DESC-ICS,3.4.1,Risk Acceptance,Documents the residual non-treated risks with justifications and gets it signed off by higher management.,Yes,Company,No
+,DESC-ICS,4,Incident and Problem Management,,Yes,Company,Yes
+4,DESC-ICS,4.1,Incident Management Planning,,Yes,Company,Yes
+4.1,DESC-ICS,4.1.1,Incident Management Planning,"Develops, distributes and maintains a documented policy and procedure for the management and handling of ICS security incidents.",Yes,Company,No
+4.1,DESC-ICS,4.1.2,Incident Management Planning,"Establishes a technology capability (Incident Response Team) to identify,analyse, eliminate, prevent and recover from the ICS security related incidents ranging from process IT, automation, ICS operations & maintenance across the organization.",Yes,Company,No
+4.1,DESC-ICS,4.1.3,Incident Management Planning,Performs regular (quarterly) exercises with the Incident Response Team to exercise & execute effective handling of ICS security incidents.,Yes,Company,No
+4.1,DESC-ICS,4.1.4,Incident Management Planning,"Develop mechanisms to detect, analyze, contain, eradicate and recover from ICS Cybersecurity incidents.",Yes,Company,No
+4.1,DESC-ICS,4.1.5,Incident Management Planning,"Performs classification, as per a documented classification scheme, of various types of ICS Incidents so that the potential impact and suitable mitigation approach is mapped.",Yes,Company,No
+4.1,DESC-ICS,4.1.6,Incident Management Planning,"Ensures the distribution, review and approval of the Incident response plan from relevant operation teams and Stakeholders.",Yes,Company,No
+4.1,DESC-ICS,4.1.7,Incident Management Planning,Perform Post-mortem or Lessons learnt activities after incidents to improve the process and ensure that control updates are communicated to the control owners.,Yes,Company,No
+4,DESC-ICS,4.2,ICS Security Incident Reporting & Escalation,,Yes,Company,Yes
+4.2,DESC-ICS,4.2.1,ICS Security Incident Reporting & Escalation,"Assigns responsibility to designated employees or users dealing with the organization's ICS operation and information, through appropriate means, for reporting promptly any observed or suspected ICS security incidents or weaknesses in systems or services, to the responsible organization’s team.",Yes,Company,No
+4.2,DESC-ICS,4.2.2,ICS Security Incident Reporting & Escalation,Implements an escalation process for reporting ICS security incidents identified as high severity for the organization and identifies and engages external authorities for further investigation if needed for such incidents.,Yes,Company,No
+4.2,DESC-ICS,4.2.3,ICS Security Incident Reporting & Escalation,Defines timelines for reporting on identified responses and enables suitable measures for ensuring adherence to defined timeline.,Yes,Company,No
+4.2,DESC-ICS,4.2.4,ICS Security Incident Reporting & Escalation,"Wherever feasible, the organization adopts automated reporting mechanisms thereby enabling ease and efficiency of Incident response.",Yes,Company,No
+4,DESC-ICS,4.3,Evidence Gathering,,Yes,Company,Yes
+4.3,DESC-ICS,4.3.1,Evidence Gathering,Implement a process to gather and retain evidences related to any ICSsecurity incidents.,Yes,Company,No
+4.3,DESC-ICS,4.3.2,Evidence Gathering,Ensure that personnel involved in incident management are trained in the correct handling of evidence.,Yes,Company,No
+4,DESC-ICS,4.4,ICS Security Incidents Knowledge base,,Yes,Company,Yes
+4.4,DESC-ICS,4.4.1,ICS Security Incidents Knowledge base,"Develops a knowledge base from all occurred ICS security incidents, with the focus of preventing and protecting the organization ICS assets from identified risks and related incidents, which includes details of incident types and any other relevant information.",Yes,Company,No
+4.4,DESC-ICS,4.4.2,ICS Security Incidents Knowledge base,Develops a repository of current ICS security incidents that are relevant to the organization’s operations and ICS environment. Performs root cause analysis of such incidents and adopts means to assure the organization of protection from such identified risks.,Yes,Company,No
+,DESC-ICS,5,Access Control,,Yes,Company,Yes
+5,DESC-ICS,5.1,Access Control Management Policy/Procedure,,Yes,Company,Yes
+5.1,DESC-ICS,5.1.1,Access Control Management Policy/Procedure,"Develops, distributes and maintains an access control policy that addresses all security requirements for the implementation of an effective access control for ICS assets within the ICS environment of the organization.",Yes,Company,No
+5.1,DESC-ICS,5.1.2,Access Control Management Policy/Procedure,"Develops, distributes and maintains an access control procedure that provides implementation details for access control, based on role-based access control(wherever possible) to individual ICS systems and components.",Yes,Company,No
+5.1,DESC-ICS,5.1.3,Access Control Management Policy/Procedure,"Ensures the ICS security access control policy clearly defines security roles, responsibilities and necessary cross-functional coordination among teams responsible for the operation, installation and maintenance of the ICS systems and components.",Yes,Company,No
+5.1,DESC-ICS,5.1.4,Access Control Management Policy/Procedure,Ensures periodic review and update of the Access Control policy and procedures in accordance with dynamic risks identified in the ICS environment.,Yes,Company,No
+5,DESC-ICS,5.2,Logical Access Control,,Yes,Company,Yes
+5.2,DESC-ICS,5.2.1,Users Access Control,,Yes,Company,Yes
+5.2.1,DESC-ICS,5.2.1.1,Users Access Control,"Defines and implements a process for ICS system user registration, de-registration, and users access privileges modification, disabling or removal, etc.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.2,Users Access Control,Provides each ICS system user with a unique identifier (user ID) for their individual business use only.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.3,Users Access Control,Implements a unified user ID standard across the organization.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.4,Users Access Control,Implements an authentication technique for the validation of claimed identities of users regarding access being on-site and remote.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.5,Users Access Control,"Develops, distributes and maintains appropriate authentication policy specific to the ICS environment (e.g. a password management policy that clearly addresses the password allocation process, ICS system users’ responsibilities on passwords use and the recommended password structure, etc.). ",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.6,Users Access Control,Identifies the categories of ICS system users requiring regular and special privileges by ensuring the availability of the following:,Yes,Company,No
+5.2.1.6,DESC-ICS,5.2.1.6.a,Users Access Control,A valid and approved access authorization.,Yes,Company,No
+5.2.1.6,DESC-ICS,5.2.1.6.b,Users Access Control,Other attributes as required by the organization or associated missions/ business functions.,Yes,Company,No
+5.2.1.6,DESC-ICS,5.2.1.6.c,Users Access Control,Utilization of access accounts with special privileges must be restricted for their intended purpose and only within the intended ICS systems and components.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.7,Users Access Control,Performs a periodic review of ICS users having privileged access rights on the ICS systems to ensure that the access privileges are commensurate with their job responsibilities.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.8,Users Access Control,Limits the number of special/high privileged user IDs to those individuals who absolutely must have such privileges for authorized business purposes.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.9,Users Access Control,Implement security and independent monitoring controls over the usage of special or high privileged IDs within the ICS environment.,Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.10,Users Access Control,"Employs a process for review and re-authorization of user access rights on a periodic basis, as defined by the organization.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.11,Users Access Control,"Ensures usage of shared accounts within the ICS environment only for non-administrative functions such as, functioning of operator stations, operation monitoring and analysis etc. In such cases, the organization maintains a list of users with access to the shared account login and password credentials and performs periodic reviews of user activity logs.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.12,Users Access Control,"For critical operations deemed by the organization, the organization shall deploy appropriate approvals prior to execution of operation ensuring reliability and accuracy.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.13,Users Access Control,"The organization enables exceptions for control 5.2.1.12; for operations mandating instantaneous response for securing plant safety, based on higher management approvals.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.14,Users Access Control,"Wherever deemed appropriate, the organization ensures protection of Information confidentiality within the ICS environment, limiting access only to authorized users for both data at rest and in transit, using suitable methods such as encryption, compartmentalization, physical separation etc.",Yes,Company,No
+5.2.1,DESC-ICS,5.2.1.15,Users Access Control,The organization explicitly defines ICS operational zone boundaries and deploys suitable protection measures for ensuring security of data traversing across zone boundaries.,Yes,Company,No
+5.2,DESC-ICS,5.2.2,Network Access Control,,Yes,Company,Yes
+5.2.2,DESC-ICS,5.2.2.1,Network Access Control,"Develops, distributes and maintains a policy for network access control, which covers details about accessible networks and network services, authorization process for granting network access, etc.",Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.2,Network Access Control,"Defines a process for authorizing, activating and terminating any network connections in the organization.",Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.3,Network Access Control,"Implement network access control tool/method for network equipment/devices connectivity detection, identification and authentication.",Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.4,Network Access Control,Remote access to the ICS systems should be restricted and granted only under circumstances where it is absolutely needed. Remote access should be granted only after approvals are obtained.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.5,Network Access Control,Implements authentication tool for remote access connections.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.6,Network Access Control,Manage and controls access to configuration ports on network equipment/ devices.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.7,Network Access Control,"Implement segregation controls on between ICS and other networks(internal, external, wireless, IP telephony, etc.).",Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.8,Network Access Control,Ensures deployment of Network Segmentation with restricted logical security access enabling network design simplification and isolation of network traffic within designated zones of operation.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.9,Network Access Control,Ensure the Network switches used in the ICS environment are configured with appropriate rules and the defined rule set is periodically reviewed for integrity and uniformity across the ICS environment.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.10,Network Access Control,Ensures a risk-based review of enforced security policies and traffic segregation rules on managed switches in line with necessary mitigation steps to identified risks.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.11,Network Access Control,"Enables multi-factor authentication within the ICS environment wherever applicable. In particular, connections established from External/Untrusted networks must be routed via a multi-factor authentication mechanism prior to being given access to the ICS environment.",Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.12,Network Access Control,Establishes network monitoring and analysis mechanisms for monitoring traffic from such untrusted network.,Yes,Company,No
+5.2.2,DESC-ICS,5.2.2.13,Network Access Control,Enables remote session termination controls (Manual or automatic) such that internal users exercise the control to instantly terminate remote connections or set configurable time-slots for external users to operate within.,Yes,Company,No
+5.2,DESC-ICS,5.2.3,Operating System Access Control,,Yes,Company,Yes
+5.2.3,DESC-ICS,5.2.3.1,Operating System Access Control,Manages and controls the use of utility programs within the ICSenvironment.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.2,Operating System Access Control,Implements session time-out controls to prevent unauthorized access.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.3,Operating System Access Control,Implements lock-out policy.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.4,Operating System Access Control,Restricts connection times and persistent connections for critical ICSsystems and applications.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.5,Operating System Access Control,Records and continuously reviews logs of administrator system IDs.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.6,Operating System Access Control,The organization shall also enforce users to periodically change their passwords and to ascertain the use of the same password only after a certain number of times.,Yes,Company,No
+5.2.3,DESC-ICS,5.2.3.7,Operating System Access Control,The organization enables a mechanism to lock user accounts post a consecutive number of unsuccessful login attempts. The users should be re-enabled access only upon having prior procedures in check.,Yes,Company,No
+5.2,DESC-ICS,5.2.4,Remote Access Security,,Yes,Company,Yes
+5.2.4,DESC-ICS,5.2.4.1,Remote Access Security,"Develops, distributes and maintains an ICS remote access security policy addressing remote access to the organization’s resources (remote access should be allowed only for exceptional cases based on business requirement).",Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.2,Remote Access Security,Enforces authorization prior to remote access connections to the ICSsystems/components.,Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.3,Remote Access Security,"Ensures that adequate security controls are implemented on the end point machines, such as authentication, encryption, antivirus software, personal firewalls, session timeout, content filtering etc.",Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.4,Remote Access Security,"Provides remote access users with access to the services, which the users are specifically authorized to use.",Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.5,Remote Access Security,Monitors and periodically reviews the remote access connections logs.,Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.6,Remote Access Security,Enables multi-factor authentication for users connecting to the ICSenvironment from remote locations.,Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.7,Remote Access Security,"Wherever feasible, deploys bi-directional authentication for remote connections to enable stronger security control.",Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.8,Remote Access Security,Ensures remote connections are enabled only to systems that require to be accessed remotely by users.,Yes,Company,No
+5.2.4,DESC-ICS,5.2.4.9,Remote Access Security,BYOD (bring your own device/personal devices) should not be allowed within ICS environment.,Yes,Company,No
+5.2,DESC-ICS,5.2.5,Wireless Access Management,,Yes,Company,Yes
+5.2.5,DESC-ICS,5.2.5.1,Wireless Access Management,"Develops, distributes and maintains a documented policy on the wireless network usage within ICS environment.",Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.2,Wireless Access Management,Authorizes the wireless access to the ICS network prior to any connection.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.3,Wireless Access Management,Implement authentication control for the wireless access.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.4,Wireless Access Management,Enforce security control for wireless connections to the  network and establishes usage restrictions and implementation guidance for such use.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.5,Wireless Access Management,Provides wireless connection users with access to services that they have been specifically authorized to use.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.6,Wireless Access Management,Monitors continuously for any unauthorized wireless access to the network.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.7,Wireless Access Management,Deploys mechanisms to ensure unique identification and authentication of all users over wireless communication networks.,Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.8,Wireless Access Management,"Enforces wireless use restrictions, monitoring mechanisms and authentication controls for wireless utility to the ICS environment.",Yes,Company,No
+5.2.5,DESC-ICS,5.2.5.9,Wireless Access Management,Enables mechanisms to identify unauthorized users within the ICSenvironment and adopts suitable reporting mechanisms to prompt timely action.,Yes,Company,No
+5,DESC-ICS,5.3,Physical Access Control,,Yes,Company,Yes
+5.3,DESC-ICS,5.3.1,Physical Access Policy and Procedure,,Yes,Company,Yes
+5.3.1,DESC-ICS,5.3.1.1,Physical Access Policy and Procedure,"Develops, distributes and maintains a documented physical access policy that addresses the organization’s requirements for implementing physical access controls on control rooms, maintenance rooms, engineering environments etc.",Yes,Company,No
+5.3.1,DESC-ICS,5.3.1.2,Physical Access Policy and Procedure,"Supplements, as necessary, the physical access policy with a detailed procedure on how to implement the protection controls and provides users with complete specification on physical security safeguards to be deployed within the ICS environment.",Yes,Company,No
+5.3.1,DESC-ICS,5.3.1.3,Physical Access Policy and Procedure,Enforces authorization prior to physical access to any facilities with ICSsystems.,Yes,Company,No
+5.3,DESC-ICS,5.3.2,Physical Security Controls,,Yes,Company,Yes
+5.3.2,DESC-ICS,5.3.2.1,Physical Security Controls,Enforces appropriate physical access control perimeters for all physical access points to the organization.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.2,Physical Security Controls,Verifies and ensures that only authorized employees are provided access to protected areas.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.3,Physical Security Controls,Controls entry to ICS facility using physical access control devices.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.4,Physical Security Controls,Controls and monitors physical access to the ICS and nearby environment.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.5,Physical Security Controls,Safeguards and enforces adequate protection controls on systems that manage physical access.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.6,Physical Security Controls,Organization reviews logs of physical access on a regular basis.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.7,Physical Security Controls,Deploys mechanism to monitor the movement of employees & nonemployees within the organization.,Yes,Company,No
+5.3.2,DESC-ICS,5.3.2.8,Physical Security Controls,The organization deploys appropriate power backup solutions to ensure continued operation of the ICS environment within the defined secure state of operation.,Yes,Company,No
+5,DESC-ICS,5.4,External Party Access Control,,Yes,Company,Yes
+5.4,DESC-ICS,5.4.1,External Party Access Control,Enforces authorization prior to logical or physical access required by external party through deploying a «need to know» criteria.,Yes,Company,No
+5.4,DESC-ICS,5.4.2,External Party Access Control,Monitors and logs logical or physical access provided to public or external party.,Yes,Company,No
+5.4,DESC-ICS,5.4.3,External Party Access Control,"Controls physical access to any areas that include ICS systems and other areas such as delivery, loading, or any other points where unauthorized personnel may enter by authenticating visitors before authorizing access.",Yes,Company,No
+5.4,DESC-ICS,5.4.4,External Party Access Control,"Authorizes, monitors and controls entering and exiting the ICS facilities or any other public areas and maintains such records.",Yes,Company,No
+5.4,DESC-ICS,5.4.5,External Party Access Control,Sets physical access protection and control mechanisms on all external parties or outsourced individuals and hold them liable for any violation or compromising the organization’s ICS security policy.,Yes,Company,No
+5,DESC-ICS,5.5,External Party Access Control,,Yes,Company,Yes
+5.5,DESC-ICS,5.5.1,External Party Access Control,Implements audit trails in ICS systems as per requirement.,Yes,Company,No
+5.5,DESC-ICS,5.5.2,External Party Access Control,maintains and periodically reviews logical and physical access control lists enabled within the ICS environment,Yes,Company,No
+,DESC-ICS,6,"Operation, Systems and Communication Management",,Yes,Company,Yes
+6,DESC-ICS,6.1,Access Control Management Policy/Procedure,,Yes,Company,Yes
+6.1,DESC-ICS,6.1.1,Technology and operations Capacity Management,,Yes,Company,Yes
+6.1.1,DESC-ICS,6.1.1.1,Technology and operations Capacity Management,"Ensures advanced planning for availability of adequate capacity and resources for the Industrial controls systems (including support systems such cybersecurity technologies) and their technology components, in line with applicable regulations.",Yes,Company,No
+6.1.1,DESC-ICS,6.1.1.2,Technology and operations Capacity Management,"Conducts an annual projection review of capacity requirements and resources for the Industrial operation systems and their technology components, integrating business requirements, or immediately upon a significant change to existing system.",Yes,Company,No
+6.1.1,DESC-ICS,6.1.1.3,Technology and operations Capacity Management,"The automation systems security design and controls should aide in prevention of exhaustion of system resources, especially by less critical and low priority applications or software.",Yes,Company,No
+6.1.1,DESC-ICS,6.1.1.4,Technology and operations Capacity Management,Enables mechanisms for continuously monitoring the software utility of key system resources such that the organization can ensure adherence to control no. 6.1.1.3 in a manner preventing shortage of resources.,Yes,Company,No
+6.1,DESC-ICS,6.1.2,Documentation of Operational Procedures,,Yes,Company,Yes
+6.1.2,DESC-ICS,6.1.2.1,Documentation of Operational Procedures,"Develops and maintains a complete set of operating procedures documentations of all Industrial operation systems detailing inputs, outputs and dependencies.",Yes,Company,No
+6.1.2,DESC-ICS,6.1.2.2,Documentation of Operational Procedures,Documents and maintains up to date baseline configurations manuals of all ICS operating and engineering systems including an inventory of constituent system components. The baselines should also include cybersecurity configurations.,Yes,Company,No
+6.1.2,DESC-ICS,6.1.2.3,Documentation of Operational Procedures,Only authorized personnel should have access to the baseline configurations. Any changes to the baselines should be logged and reviewed.,Yes,Company,No
+6.1.2,DESC-ICS,6.1.2.4,Documentation of Operational Procedures,Enables adequate approval mechanisms involving necessary stakeholders prior to deploying changes to the ICS Operational procedures.,Yes,Company,No
+6.1,DESC-ICS,6.1.3,Change Management,,Yes,Company,Yes
+6.1.3,DESC-ICS,6.1.3.1,Change Management,"Develops, distributes and maintains a documented change management policy that defines the overall change management process employed by the organization for ICS environment, outlining roles and responsibilities.",Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.2,Change Management,"Supplements, as necessary, the change management policy with a detailed procedure to facilitate the implementation of the change and configuration management process and provide guidelines for all users.",Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.3,Change Management,"Implements a change management process that must include the following details, as a minimum:",Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.a,Change Management,Description of required change.,Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.b,Change Management,Testing and implementation plans for the change.,Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.c,Change Management,Risk assessment of the change impact.,Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.d,Change Management,Official authorization of the change and the communication process for all stakeholders,Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.e,Change Management,Rollback process for recovery of unsuccessful changes.,Yes,Company,No
+6.1.3.3,DESC-ICS,6.1.3.3.f,Change Management,Approved maintenance windows during which the change will be implemented,Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.4,Change Management,"Incorporates health and safety reviews for all significant changes. Thereby ensuring, continued security and safety of ICS systems.",Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.5,Change Management,"Whenever applicable, the organization ensures performance of a change impact analysis to derive potential impact to the ICS prior to deployment of changes.",Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.6,Change Management,Ensures separation of change responsibilities to employees ensuring no overlap of duties.,Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.7,Change Management,Integrates ICS cybersecurity change management procedures with overall ICS change management procedures to enable integration of Cybersecurity within regular operation of the ICS systems and components.,Yes,Company,No
+6.1.3,DESC-ICS,6.1.3.8,Change Management,"Maintains historical record of all changes being carried out within the ICS, recording necessary information to identify the change, date of change, purpose of change, responsible owner and other necessary information deemed appropriate by the organization.",Yes,Company,No
+6.1,DESC-ICS,6.1.4,Configuration Management,,Yes,Company,Yes
+6.1.4,DESC-ICS,6.1.4.1,Configuration Management,"Develops and distributes a configuration Management policy enabling the organization to establish baseline configuration requirements, manage configuration changes and define cross-functional responsibilities necessary for the management of ICS Systems/Components configuration.",Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.2,Configuration Management,"Implements procedures for management, monitoring and documentation of configuration changes made to the ICS systems such as PLCs, DCS,HMIs, SCADA clients and servers, Operator stations and any other supporting ICS equipment and applications.",Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.3,Configuration Management,Enables access restrictions to ICS system configuration settings and performs periodic reviews to ascertain provision of access to necessary users.,Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.4,Configuration Management,Assessment should be performed to determine the change in cybersecurity risk level due to configuration changes applied on ICS systems.,Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.5,Configuration Management,Ensures changes made to the ICS environment satisfy the cybersecurity requirements to address the risk level and overall provide the same or better degree of protection as the original equipment or configuration.,Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.6,Configuration Management,Establishes and ensures uniform application of minimum-security baseline configuration of ICS systems and components.,Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.7,Configuration Management,Establishes network and security configuration settings for the ICS systems in line with recommendations from corresponding System vendors. organization.,Yes,Company,No
+6.1.4,DESC-ICS,6.1.4.8,Configuration Management,"Ensures periodic review and update of ICS security baselines for different ICS components upon identification of new risks, installation of new technology/components or changes to the ICS environment.",Yes,Company,No
+6.1,DESC-ICS,6.1.5,Segregation of Duties,,Yes,Company,Yes
+6.1.5,DESC-ICS,6.1.5.1,Segregation of Duties,"Segregates duties and responsibilities as necessary through distributing the tasks for a specific industrial operation / area among multiple users, in a manner to reduce errors, fraud and unauthorized modification or misuse of the organization’s ICS assets.",Yes,Company,No
+6.1.5,DESC-ICS,6.1.5.2,Segregation of Duties,Enforces restriction of access control to the ICS by implementation of segregation of duties as a part of employee’s job role. Thereby curtailing ICS access on a need-to-know basis and enabling validation by different users prior to deployment of high-risk operations.,Yes,Company,No
+6.1,DESC-ICS,6.1.6,Separation of Operational Facilities,,Yes,Company,Yes
+6.1.6,DESC-ICS,6.1.6.1,Separation of Operational Facilities,"Segregates where necessary development, testing, production and processing facilities to mitigate the risk impacting the production systems from unauthorized intentional or unintentional access or change.",Yes,Company,No
+6.1.6,DESC-ICS,6.1.6.2,Separation of Operational Facilities,Allocates secured computing environment for ICS sections performing critical operations.,Yes,Company,No
+6.1.6,DESC-ICS,6.1.6.3,Separation of Operational Facilities,Ensures that the development tools and compilers are not accessible from ICS operator systems.,Yes,Company,No
+6.1.6,DESC-ICS,6.1.6.4,Separation of Operational Facilities,Ensures sensitive ICS operational information is not forwarded into the test environment. Thereby restricting access of sensitive plant information only within the organization’s ICS.,Yes,Company,No
+6.1,DESC-ICS,6.1.7,ICS Systems Deployment,,Yes,Company,Yes
+6.1.7,DESC-ICS,6.1.7.1,ICS Systems Deployment,"Develop, distribute and maintain a documented policy and procedure for the acquisition, deployment and upgrade of ICS operation systems, addressing the organization’s requirements for ensuring security controls implementation and in line with organization’s baseline configuration requirements, prior to acceptance or deployment.",Yes,Company,No
+6.1.7,DESC-ICS,6.1.7.2,ICS Systems Deployment,Defines and implements acceptance criteria for new ICS systems implementation and upgrades and enforcing documented certification and accreditation process outlining security requirements.,Yes,Company,No
+6.1.7,DESC-ICS,6.1.7.3,ICS Systems Deployment,"Carries out suitable security testing of the ICS systems during development, prior to acceptance, deployment and ensures periodic testing.",Yes,Company,No
+6,DESC-ICS,6.2,External Party Services Management,,Yes,Company,Yes
+6.2,DESC-ICS,6.2.1,External Party Services Management,"Develops, and maintains a documented agreement with the external party service providers that addresses compliance with the organization’s Insecurity requirements in addition to the organization’s ICS security controls.",Yes,Company,No
+6.2,DESC-ICS,6.2.2,External Party Services Management,"Places adequate measures to assure that security controls, services definitions and delivery levels agreed upon in the external party contractual agreements are implemented and followed by the external party.",Yes,Company,No
+6.2,DESC-ICS,6.2.3,External Party Services Management,"Monitors, reviews and audits the services and all related deliverables provided by external party in a regular basis.",Yes,Company,No
+6.2,DESC-ICS,6.2.4,External Party Services Management,Places adequate measures to manage and assess risks related to changes of the external party services. Examples of changes may include:,Yes,Company,No
+6.2.4,DESC-ICS,6.2.4.a,External Party Services Management,Application of new or enhanced security controls.,Yes,Company,No
+6.2.4,DESC-ICS,6.2.4.b,External Party Services Management,Updating organization’s policies/procedures.,Yes,Company,No
+6.2.4,DESC-ICS,6.2.4.c,External Party Services Management,New technology or new vendor to be used.,Yes,Company,No
+6.2,DESC-ICS,6.2.5,External Party Services Management,Identifies and nominates employees or internal service management teams to ascertain ownership for the management of external party services.,Yes,Company,No
+6.2,DESC-ICS,6.2.6,External Party Services Management,Incorporates necessary controls for monitoring and reporting of identified security incidents by the third party in agreement contracts to facilitate timely resolution and mitigation of Cybersecurity risks to the ICS.,Yes,Company,No
+6.2,DESC-ICS,6.2.7,External Party Services Management,Enforces mechanisms to periodically review adherence to contractual statements mentioned in agreements with third parties.,Yes,Company,No
+6,DESC-ICS,6.3,Protection against Malicious Code,,Yes,Company,Yes
+6.3,DESC-ICS,6.3.1,Protection against Malicious Code,"Develops, distributes and maintains a documented policy covering the requirements for prevention, detection and recovery controls against malicious codes.",Yes,Company,No
+6.3,DESC-ICS,6.3.2,Protection against Malicious Code,Implements documented procedures to deal with malicious code reporting and recovery.,Yes,Company,No
+6.3,DESC-ICS,6.3.3,Protection against Malicious Code,Conduct regular awareness across the organization on the importance of protecting the organization infrastructure from malicious code attacks.,Yes,Company,No
+6.3,DESC-ICS,6.3.4,Protection against Malicious Code,"Implements organization wide system/software for the malicious code scanning, detection and repairing.",Yes,Company,No
+6.3,DESC-ICS,6.3.5,Protection against Malicious Code,Anti-malware solutions should be updated on a regular basis with latest signature files.,Yes,Company,No
+6.3,DESC-ICS,6.3.6,Protection against Malicious Code,"Performs periodic scans of all ICS systems and real-time scans of files from external sources as the files are downloaded, opened, or executed, as defined by the implemented policies.",Yes,Company,No
+6.3,DESC-ICS,6.3.7,Protection against Malicious Code,Establishes and maintains appropriate informative communication channels to obtain latest details of new malicious code.,Yes,Company,No
+6.3,DESC-ICS,6.3.8,Protection against Malicious Code,Develops and implements continuity plans/procedures for recovery from malicious code attacks.,Yes,Company,No
+6.3,DESC-ICS,6.3.9,Protection against Malicious Code,Defines the acceptable and unacceptable mobile code technologies.,Yes,Company,No
+6.3,DESC-ICS,6.3.10,Protection against Malicious Code,Establishes usage restrictions and implementation guides for the acceptable mobile code technologies.,Yes,Company,No
+6.3,DESC-ICS,6.3.11,Protection against Malicious Code,"Enforces authorization, monitoring and control over the use of mobile code technologies.",Yes,Company,No
+6.3,DESC-ICS,6.3.12,Protection against Malicious Code,"Enforces restrictions on usage of mobile code (like flash & VB scripts, Java, Active x components, Flash, etc.) within the Control System network. Thereby effectively preventing execution of mobile code, restricting transfer of mobile code to ICS and vice versa and monitoring use of mobile code within the operation environment.",Yes,Company,No
+6.3,DESC-ICS,6.3.13,Protection against Malicious Code,Enables mechanisms to validate the mobile code integrity prior to execution in the ICS environment.,Yes,Company,No
+6.3,DESC-ICS,6.3.14,Protection against Malicious Code,Enables malicious code protection mechanisms at all entry and exit points of the ICS environment.,Yes,Company,No
+6.3,DESC-ICS,6.3.15,Protection against Malicious Code,"Wherever feasible, the organization ensures central management controls for protection against malicious code.",Yes,Company,No
+6.3.,DESC-ICS,6.3.16,Protection against Malicious Code,Ensures updated malicious code definition files are not directly pushed from the Internet to the ICS systems. Enables manual update mechanism for smaller non-critical ICS systems and centralized mechanisms for updating larger critical ICS systems.,Yes,Company,No
+6,DESC-ICS,6.4,Network Security,,Yes,Company,Yes
+6.4,DESC-ICS,6.4.1,Network Security,"Implements documented process for its ICS network services to govern the interconnections between its network, critical owned business ICS systems and other networks and information systems outside its formal boundaries, outlining the roles and responsibilities of securing the connections and all other requisite issues such as duration of connection, ports, users’ access, etc.",Yes,Company,No
+6.4,DESC-ICS,6.4.2,Network Security,"Develops and implements network service agreements and ensures that all required security controls, service levels, and management requirements are included in such agreements.",Yes,Company,No
+6.4,DESC-ICS,6.4.3,Network Security,"Enables clock synchronization on all networking devices with agreed reference such as Universal Coordinated Time (UTC) to facilitate forensic analysis, and continuously monitor its accuracy.",Yes,Company,No
+6.4,DESC-ICS,6.4.4,Network Security,Monitors the information system connections continuously and always verifies enforcement of security requirements.,Yes,Company,No
+6.4,DESC-ICS,6.4.5,Network Security,Implements secure network routing controls.,Yes,Company,No
+6.4,DESC-ICS,6.4.6,Network Security,"Implements adequate protection level for the confidentiality, integrity and availability of transmitted information and, prevent unauthorized access to information or data in transit (whether within organization or to external network).",Yes,Company,No
+6.4,DESC-ICS,6.4.7,Network Security,Terminates network connections associated with communication sessions as per the organization defined period of inactivity.,Yes,Company,No
+6.4,DESC-ICS,6.4.8,Network Security,Implement measures to ensure adequate/high level of network availability.,Yes,Company,No
+6.4,DESC-ICS,6.4.9,Network Security,"Configures the network traffic devices on a need basis, as the general rule of thumb is ‹deny-all› otherwise justify, with maintaining logs of all changes asper the organization’s change management policy.",Yes,Company,No
+6.4,DESC-ICS,6.4.10,Network Security,"Develops and maintains full documentation of the network devices, connections, and IP configuration while ensuring highest security protection and controls on the documents.",Yes,Company,No
+6.4,DESC-ICS,6.4.11,Network Security,Applies appropriate logging and monitoring procedures to enable recording of network security activities.,Yes,Company,No
+6.4,DESC-ICS,6.4.12,Network Security,"Ensures logical separation of IT and ICS networks by means of physical isolation or Firewalls. Also, ensures segmentation of critical ICS networks from other ICS networks to better contain potential cyber threats to the ICS.",Yes,Company,No
+6.4,DESC-ICS,6.4.13,Network Security,Enables network services to ICS environment without establishing connections to the organization’s IT environment.,Yes,Company,No
+6.4,DESC-ICS,6.4.14,Network Security,Ensures monitoring and control of communications within ICS zone boundaries to analyze network traffic and ascertain control upon identification of malicious traffic.,Yes,Company,No
+6.4,DESC-ICS,6.4.15,Network Security,Enables islanding of organization’s ICS communication network upon occurrence of incidents and ensures deployment of fail close mechanisms upon failure of ICS boundary protection systems.,Yes,Company,No
+6.4,DESC-ICS,6.4.16,Network Security,Enables provisions for operation of ICS in degraded mode upon the occurrence of a DoS (Denial of Service) incident.,Yes,Company,No
+6.4,DESC-ICS,6.4.17,Network Security,Enables necessary DoS prevention controls to manage ICS communication loads and limit DoS effects within ICS network compartments.,Yes,Company,No
+6.4,DESC-ICS,6.4.18,Network Security,"Provisions capability to restrict/prohibit use of unnecessary services, ports and protocols.",Yes,Company,No
+6,DESC-ICS,6.5,Information Exchange Management,,Yes,Company,Yes
+6.5,DESC-ICS,6.5.1,Information Exchange,,Yes,Company,Yes
+6.5.1,DESC-ICS,6.5.1.1,Information Exchange,"Develops, distributes and maintains documented policy and procedures governing the exchange of ICS information internally in the organization, or externally with outside entities, in all types of communication channels, based on the criticality of information and in line with relevant laws and regulations.",Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.2,Information Exchange,Develops and maintains documented ICS information exchange agreements that cover the protection and non-disclosure requirements for the exchange of any government related information between the organization and any external party.,Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.3,Information Exchange,"Applies adequate security controls on top of the process of exchanging information, specifically for transmitted physical media containing information such as labelling, liability, etc.",Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.4,Information Exchange,Enforces restrictions on person-to-person communication channels connecting ICS and IT environments.,Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.5,Information Exchange,"Implements mechanisms to secure exchanged information from interception, misrouting, modification etc.",Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.6,Information Exchange,Enables mechanisms for detection and protection from malicious code that might be transmitted over electronic media.,Yes,Company,No
+6.5.1,DESC-ICS,6.5.1.7,Information Exchange,"Ensures provision of awareness trainings to employees on the secure utility, storage and exchange of information and specifies responsibilities of information users towards safeguarding the confidentiality and integrity of the information.",Yes,Company,No
+6,DESC-ICS,6.6,Media Handling Management,,Yes,Company,Yes
+6.6,DESC-ICS,6.6.1,Media Handling Management,"Develops and distributes a Media Handling policy specific to the ICS environment to prevent unauthorized disclosure, modification or destruction of ICS assets.",Yes,Company,No
+6.6,DESC-ICS,6.6.2,Media Handling Management,"Implements adequate security and protection procedures for any type of media containing information, in terms of handling, storage, disposal etc.",Yes,Company,No
+6.6,DESC-ICS,6.6.3,Media Handling Management,Enforces storage of removable media in a secure manner in line with storage instructions provided by the manufacturer.,Yes,Company,No
+6.6,DESC-ICS,6.6.4,Media Handling Management,Enables documented procedures for the secure and safe disposal of media when no longer required. Thereby safeguarding the confidentiality of critical/sensitive ICS information.,Yes,Company,No
+6.6,DESC-ICS,6.6.5,Media Handling Management,Implements labelling/classification of ICS information types to ensure adequate deployment of security controls for corresponding ICS information.,Yes,Company,No
+6,DESC-ICS,6.7,Monitoring and Logs Management,,Yes,Company,Yes
+6.7,DESC-ICS,6.7.1,Monitoring and Logs Management,"Enables audits logs for all ICS information processing systems/ applications, and periodically reviews such logs and ensures applying adequate retention measures over them.",Yes,Company,No
+6.7,DESC-ICS,6.7.2,Monitoring and Logs Management,Sets adequate monitoring requirements for all ICS systems/ applications based on criticality of the systems.,Yes,Company,No
+6.7,DESC-ICS,6.7.3,Monitoring and Logs Management,"Logs system administrators and operators’ activities and ensures reviewing them periodically, by an independent unit.",Yes,Company,No
+6.7,DESC-ICS,6.7.4,Monitoring and Logs Management,"Enables faults logging on all system levels including network, applications, servers and databases among others.",Yes,Company,No
+6.7,DESC-ICS,6.7.5,Monitoring and Logs Management,Deploys adequate logs analysis mechanism and places appropriate actions on faults.,Yes,Company,No
+6.7,DESC-ICS,6.7.6,Monitoring and Logs Management,"Secures, where appropriate, logging systems and log files against unauthorized changes including alterations, deletions, and renaming of logfile contents, dates and time stamps.",Yes,Company,No
+6.7,DESC-ICS,6.7.7,Monitoring and Logs Management,"Sets an appropriate lifetime for maintaining the logging information, as per the business needs and criticality of information.",Yes,Company,No
+6.7,DESC-ICS,6.7.8,Monitoring and Logs Management,Enables clock synchronization over all information processing systems/applications with accurate time source. Wherever applicable the organization ensures generating an audit event upon alteration of time source.,Yes,Company,No
+6.7,DESC-ICS,6.7.9,Monitoring and Logs Management,"Ensures logging of events for necessary ICS operations and security functions. The logs contain necessary information such as timestamps, source, event ID, type, category etc.",Yes,Company,No
+6.7,DESC-ICS,6.7.10,Monitoring and Logs Management,"Wherever feasible, the organization enables centrally managed audit logs compiled from multiple sources across the ICS, enabling comprehensive visibility of the ICS environment.",Yes,Company,No
+6.7,DESC-ICS,6.7.11,Monitoring and Logs Management,Provisions storage capacity for the recording of ICS system audit logs based on defined storage requirements calculated considering likelihood of event occurrence.,Yes,Company,No
+6.7,DESC-ICS,6.7.12,Monitoring and Logs Management,"Enables mechanisms to protect the integrity of Audit logs from modification, deletion or unauthorized access.",Yes,Company,No
+,DESC-ICS,7,Business Continuity Planning,,Yes,Company,Yes
+7,DESC-ICS,7.1,Business Continuity Planning Policy and Procedures,,Yes,Company,Yes
+7.1,DESC-ICS,7.1.1,Business Continuity Planning Policy and Procedures,"Develops and distributes a Business Continuity Policy and Procedure incorporating employee roles and responsibilities, operational guidelines, necessary actions and mitigation methodologies for ensuring continuity of the organization’s ICS environment.",Yes,Company,No
+7.1,DESC-ICS,7.1.2,Business Continuity Planning Policy and Procedures,"Enables mechanisms to conduct periodic reviews and updates to the Business continuity planning framework in line with the business requirements, Changes to ICS systems, processes, current ICS trends and risks.",Yes,Company,No
+7,DESC-ICS,7.2,Business Impact Analysis,,Yes,Company,Yes
+7.2,DESC-ICS,7.2.1,Business Impact Analysis,Develops and periodically conducts a business impact analysis for all critical business processes and ICS systems to define and determine the impact of potential operational failures.,Yes,Company,No
+7.2,DESC-ICS,7.2.2,Business Impact Analysis,"Sets and accounts the responsibility of the Business Impact Analysis to the senior management, with involvement from all related divisions.",Yes,Company,No
+7.2,DESC-ICS,7.2.3,Business Impact Analysis,"Identifies, documents and periodically reviews operational incidents that adversely affect the ICS systems and components.",Yes,Company,No
+7.2,DESC-ICS,7.2.4,Business Impact Analysis,Derives probability and impact of identified operational incidents on the ICS security and overall business process of the organization.,Yes,Company,No
+7,DESC-ICS,7.3,Business Continuity Plan,,Yes,Company,Yes
+7.3,DESC-ICS,7.3.1,Business Continuity Plan,"Organizes and accounts responsible a committee of senior management and business owners for the business continuity plan, with defined and clear responsibilities.",Yes,Company,No
+7.3,DESC-ICS,7.3.2,Business Continuity Plan,"Develops, maintains, periodically tests and reassesses a business continuity plan that covers the following.",Yes,Company,No
+7.3,DESC-ICS,7.3.3,Business Continuity Plan,The plan should be based on the Business Impact Analysis and Risk Assessment.,Yes,Company,No
+7.3,DESC-ICS,7.3.4,Business Continuity Plan,"The plan should address requirements for resilience, alternative processing and recovery capability of all critical business and ICS services.",Yes,Company,No
+7.3,DESC-ICS,7.3.5,Business Continuity Plan,"The plan should cover usage guidelines, roles and responsibilities, procedures communication processes, and the testing approach.",Yes,Company,No
+7.3,DESC-ICS,7.3.6,Business Continuity Plan,Organization Designs a business continuity process in a manner to reduce the impact of a major disruption on key ICS processes.,Yes,Company,No
+7.3,DESC-ICS,7.3.7,Business Continuity Plan,Ensures inclusion of ICS Cybersecurity procedures to recover from a disaster or outage within the organization’s overall Business Continuity plan.,Yes,Company,No
+7.3,DESC-ICS,7.3.8,Business Continuity Plan,"Ensures adequate coverage of all applicable ICS system entities such as PLCs, DCSs, HMIs, SCADA applications, Operator and Engineering stations, SCADA servers etc. in the Business continuity plan such that designed recovery strategy is comprehensive and applicable.",Yes,Company,No
+7.3,DESC-ICS,7.3.9,Business Continuity Plan,Appoints and educates designated personnel for the appropriate execution of the ICS system recovery by means of developing Business continuity procedures.,Yes,Company,No
+7.3,DESC-ICS,7.3.10,Business Continuity Plan,Identifies critical business needs associated with the ICS and defines recovery objectives to be incorporated in Business Continuity Plan.,Yes,Company,No
+7.3,DESC-ICS,7.3.11,Business Continuity Plan,Develops and assesses a list of potential disruption scenarios applicable to the organization’s ICS environment to support with the designing of recovery procedures.,Yes,Company,No
+7.3,DESC-ICS,7.3.12,Business Continuity Plan,Enables approval mechanism for acceptance of designed Business Continuity Plan from appropriate stakeholders within the Organization.,Yes,Company,No
+7.3,DESC-ICS,7.3.13,Business Continuity Plan,"Enables mechanisms to update the Business Continuity Plan accounting for changes in operational environment, new threats to the ICS operation and changes in business requirements.",Yes,Company,No
+7.3,DESC-ICS,7.3.14,Business Continuity Plan,"Trains relevant employees on their Business continuity roles and responsibilities. Thereby, enabling a quick and suitable action upon the occurrence of an ICS security incident.",Yes,Company,No
+7,DESC-ICS,7.4,Disaster Recovery,,Yes,Company,Yes
+7.4,DESC-ICS,7.4.1,Disaster Recovery,Identifies the most critical ICS systems and applications in accordance with the risk assessment conducted by the organization.,Yes,Company,No
+7.4,DESC-ICS,7.4.2,Disaster Recovery,"Deploys a recovery plan for the identified critical business systems, as the organization's operations specify.",Yes,Company,No
+7.4,DESC-ICS,7.4.3,Disaster Recovery,Determines the type of recovery scheme that is applicable for its requirement.,Yes,Company,No
+7.4,DESC-ICS,7.4.4,Disaster Recovery,Exercises and periodically tests the decided recovery plan.,Yes,Company,No
+7.4,DESC-ICS,7.4.5,Disaster Recovery,Establishes a Disaster recovery site based on risk assessment and a business impact analysis to help the entity recover business systems that are critical to operations.,Yes,Company,No
+7.4,DESC-ICS,7.4.6,Disaster Recovery,Assigns Disaster Recovery roles and responsibilities to appropriate employees and ensures provision of necessary training and resources.,Yes,Company,No
+7.4,DESC-ICS,7.4.7,Disaster Recovery,"Records and stores necessary ICS information such as: Physical and logical access lists to the ICS, Updated ICS network schema and ICS component configuration information.",Yes,Company,No
+7,DESC-ICS,7.5,Backup and Storage Strategies,,Yes,Company,Yes
+7.5,DESC-ICS,7.5.1,Backup and Storage Policy and Procedure,"Develops, distributes and maintains a documented backup, storage and retention policy that includes:",Yes,Company,Yes
+7.5.1,DESC-ICS,7.5.1.a,Backup and Storage Policy and Procedure,Users’ responsibilities.,Yes,Company,No
+7.5.1,DESC-ICS,7.5.1.b,Backup and Storage Policy and Procedure,Requirements for backup and recovery systems.,Yes,Company,No
+7.5.1,DESC-ICS,7.5.1.c,Backup and Storage Policy and Procedure,Backup protection controls.,Yes,Company,No
+7.5.1,DESC-ICS,7.5.1.d,Backup and Storage Policy and Procedure,"Legal and business requirements (e.g. recovery point objective, recovery time objective, etc.).",Yes,Company,No
+7.5.1,DESC-ICS,7.5.1.2,Backup and Storage Policy and Procedure,"Supplements, as necessary, the backup policy with a detailed procedure for backup and storage specifications and implements them.",Yes,Company,No
+7.5.1,DESC-ICS,7.5.1.3,Backup and Storage Policy and Procedure,"Defines ICS backup restoration speed and frequency requirements. Thereby, enabling backup systems acquisition strategy to support with the organization’s recovery objectives.",Yes,Company,No
+7.5,DESC-ICS,7.5.2,Media Library and Resources Protection,,Yes,Company,Yes
+7.5.2,DESC-ICS,7.5.2.1,Media Library and Resources Protection,"Develops, distributes and maintains a documented policy and procedure on media library protection.",Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.2,Media Library and Resources Protection,Restricts and continuously monitors access to media libraries and storage resources.,Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.3,Media Library and Resources Protection,"Marks clearly all media and storage resources, indicating distribution lists, handling controls, and the application asset’s security classification as per the assets classification policy.",Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.4,Media Library and Resources Protection,"Allocates locations, with adequate security and environmental measures and controls for the storage of the backup media, whether on-site/ offsite, as the organization specifies.",Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.5,Media Library and Resources Protection,Sets security agreements and security protection controls in case an external party is involved in handling the media library for the organization.,Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.6,Media Library and Resources Protection,Protects and controls all physical media while being in a transit process.,Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.7,Media Library and Resources Protection,Encrypts backups and archives where technically feasible and appropriate.,Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.8,Media Library and Resources Protection,Maintains accountability for media in transit outside the organization control areas and restricts to authorized personnel.,Yes,Company,No
+7.5.2,DESC-ICS,7.5.2.9,Media Library and Resources Protection,Wipes and sanitizes all backup media prior to disposal or reuse.,Yes,Company,No
+7.5,DESC-ICS,7.5.3,Backup Testing Restoration,,Yes,Company,Yes
+7.5.3,DESC-ICS,7.5.3.1,Backup Testing Restoration,Plans and executes a periodic testing and restoration process of all backup and storage media.,Yes,Company,No
+7.5.3,DESC-ICS,7.5.3.2,Backup Testing Restoration,Ensures the restoration and recovery of the ICS to a known secure state of operation after an operational failure or disruption thereby enabling complete system functionality with known security assurance.,Yes,Company,No
+7.5,DESC-ICS,7.5.4,Control System Backup,,Yes,Company,Yes
+7.5.4,DESC-ICS,7.5.4.1,Control System Backup,Ensures deployment of mechanisms to conduct backups of user-level and System-level information within the ICS without disruption of regular operations.,Yes,Company,No
+7.5.4,DESC-ICS,7.5.4.2,Control System Backup,Enables automated backup mechanisms for obtaining specified backup information from the ICS on a pre-defined frequency.,Yes,Company,No
+7,DESC-ICS,7.6,Business Continuity Plan (BCP) Test and Review,,Yes,Company,Yes
+7.6,DESC-ICS,7.6.1,Business Continuity Plan (BCP) Test and Review,"Maintains, exercises and tests in a periodic manner the Business Continuity Plan, Business Impact Analysis, Backup and Restoration, and Disaster Recovery Plan.",Yes,Company,No
+7.6,DESC-ICS,7.6.2,Business Continuity Plan (BCP) Test and Review,"Reviews and tests defined Business continuity procedures to ensure adequate mitigation of risks within the ICS environment in line with changes in ICS systems, business requirements and current ICS risks.",Yes,Company,No
+,DESC-ICS,8,"ICS Systems Acquisition, Development and Management",,Yes,Company,Yes
+8,DESC-ICS,8.1,"ICS System Acquisition, Development and Management",,Yes,Company,Yes
+8.1,DESC-ICS,8.1.1,"ICS Systems Acquisition, Development and Management Policy and Procedure",,Yes,Company,Yes
+8.1.1,DESC-ICS,8.1.1.1,"ICS Systems Acquisition, Development and Management Policy and Procedure","Develops, distributes and maintains a documented policy and procedures for addressing the organization’s requirements for ensuring the security on any in house developed or external party applications regarding the Acquisition, Development and Management of ICS systems, including mobile applications.",Yes,Company,No
+8.1.1,DESC-ICS,8.1.1.2,"ICS Systems Acquisition, Development and Management Policy and Procedure","Enables mechanisms for periodically reviewing the ICS Systems Acquisition, Development and Management policy and procedures to ensure coverage of current Information security risks, changes within organization's ICS environment and business requirements.",Yes,Company,No
+8.1,DESC-ICS,8.1.2,ICS Application Security,,Yes,Company,Yes
+8.1.2,DESC-ICS,8.1.2.1,ICS Application Security,"Develops an Application or Software Development Life Cycle (SDLC)methodology incorporating adequate security controls at all phases of the software development life cycle, while considering the defined security requirements (e.g. functional, technical, assurance etc.) at each software development stage.",Yes,Company,No
+8.1.2,DESC-ICS,8.1.2.2,ICS Application Security,"Defines, distributes and maintains a documented procedure for secure deployment, distribution, provisioning and decommissioning of portable computing device applications, application interfaces (APIs) (including third party components), through regular updates / checks to ensure adequate level of security.",Yes,Company,No
+8.1.2,DESC-ICS,8.1.2.3,ICS Application Security,Ensures ICS applications are enabled with adequate security controls around input data validation such as:,Yes,Company,No
+8.1.2.3,DESC-ICS,8.1.2.3.a,ICS Application Security,"Validation of input data to applications such as out of range value checks, missing information check, unauthorized/incorrect data check etc.",Yes,Company,No
+8.1.2.3,DESC-ICS,8.1.2.3.b,ICS Application Security,Review of hard copy data sheets for validating integrity of input information.,Yes,Company,No
+8.1.2.3,DESC-ICS,8.1.2.3.c,ICS Application Security,Identifying select stakeholders for the data input process and ascertaining responsibility for input of data.,Yes,Company,No
+8.1.2,DESC-ICS,8.1.2.4,ICS Application Security,Incorporates internal application processing checks for safeguarding against corruption of application information.,Yes,Company,No
+8.1.2,DESC-ICS,8.1.2.5,ICS Application Security,Ensures protection of ICS application information integrity by deploying technical controls to enforce security of information at rest and transit such as cryptography.,Yes,Company,No
+8.1.2,DESC-ICS,8.1.2.6,ICS Application Security,Ensures ICS applications are enabled with adequate security controls around output data validation such as:,Yes,Company,No
+8.1.2.6,DESC-ICS,8.1.2.6.a,ICS Application Security,"Validation checks for ensuring accuracy, completeness and classification of output information.",Yes,Company,No
+8.1.2.6,DESC-ICS,8.1.2.6.b,ICS Application Security,Identifying select stakeholders for validating the data output process.,Yes,Company,No
+8.1,DESC-ICS,8.1.3,ICS system operational requirements,,Yes,Company,Yes
+8.1.3,DESC-ICS,8.1.3.1,ICS system operational requirements,Dubai Government Organization.,Yes,Company,No
+8.1.3,DESC-ICS,8.1.3.2,ICS system operational requirements,Enables pre-determined output production upon the failure to operate the organization’s ICS environment in normal conditions.,Yes,Company,No
+8.1.3,DESC-ICS,8.1.3.3,ICS system operational requirements,"Ensures integrity of monitoring and control sessions between field devices, process network and operator and Engineering stations.",Yes,Company,No
+8.1.3,DESC-ICS,8.1.3.4,ICS system operational requirements,"Enforces necessary security controls relating to invalidation of user sessions upon termination/logout of sessions, generation of unique session IDs and random generation session IDs for each session.",Yes,Company,No
+8,DESC-ICS,8.2,ICS Security Requirements and Specifications,,Yes,Company,Yes
+8.2,DESC-ICS,8.2.1,ICS Security Requirements and Specifications,"Defines and documents ICS security requirements in all business cases, requests for proposals and work requests, related to acquisitioned or in house developed ICS systems, to ensure integrating adequate security controls and minimize any cost related to security, and enough resources are allocated to implement these controls.",Yes,Company,No
+8.2,DESC-ICS,8.2.2,ICS Security Requirements and Specifications,"Ensures enough coverage of ICS systems and components for application of ICS security such as ICS applications, operating systems, SCADA servers, SCADA systems, PLCs, DCSs, Engineering and Operating stations etc.",Yes,Company,No
+8.2,DESC-ICS,8.2.3,ICS Security Requirements and Specifications,"Develops and approves the ICS systems design documents addressing the security requirements covering all the relevant platforms (e.g. operating systems, browsers, portable computing devices, etc.).",Yes,Company,No
+8.2,DESC-ICS,8.2.4,ICS Security Requirements and Specifications,Secure coding standards are used for ICS system software and ICS application development.,Yes,Company,No
+8.2,DESC-ICS,8.2.5,ICS Security Requirements and Specifications,"Designs the security architecture for the development & deployment of ICS systems including network security, transmission security etc.",Yes,Company,No
+8.2,DESC-ICS,8.2.6,ICS Security Requirements and Specifications,"Implements adequate configuration management process during information systems design, development, implementation and operation.",Yes,Company,No
+8.2,DESC-ICS,8.2.7,ICS Security Requirements and Specifications,Performs necessary FAT/SAT security tests on ICS components prior to installation and employs measures to perform security tests during regular plant operation in line with business risk and operational constraints.,Yes,Company,No
+8.2,DESC-ICS,8.2.8,ICS Security Requirements and Specifications,Involves necessary control system vendors/system integrators for testing designed security controls.,Yes,Company,No
+8.2,DESC-ICS,8.2.9,ICS Security Requirements and Specifications,"Enables application, services and data partitioning for critical functions within the ICS environment. Thereby ensuring operational independence and isolated security.",Yes,Company,No
+8.2,DESC-ICS,8.2.10,ICS Security Requirements and Specifications,Ensures specification of security requirements on contracts/agreements pertaining to installation of ICS systems in accordance with the organization’s ICS Cybersecurity framework.,Yes,Company,No
+8.2,DESC-ICS,8.2.11,ICS Security Requirements and Specifications,"Wherever deemed appropriate, the organization chooses to acquire security certified ICS products, or the organization enables independent security evaluation of the ICS product prior to Acquisition.",Yes,Company,No
+8,DESC-ICS,8.3,Secure and Correct Processing of ICS Systems,,Yes,Company,Yes
+8.3,DESC-ICS,8.3.1,Secure and Correct Processing of ICS Systems,Conducts testing to validate integrity of data input controls on Industrial Control systems.,Yes,Company,No
+8.3,DESC-ICS,8.3.2,Secure and Correct Processing of ICS Systems,Identifies integrity requirements for processed messages and information in the ICS systems and ensures implementing adequate controls to protect it.,Yes,Company,No
+8.3,DESC-ICS,8.3.3,Secure and Correct Processing of ICS Systems,Integrates validation checks into Industrial Control systems processing to detect any loss of integrity in processed information.,Yes,Company,No
+8.3,DESC-ICS,8.3.4,Secure and Correct Processing of ICS Systems,Conducts testing to validate integrity of data output from Industrial Control systems.,Yes,Company,No
+8.3,DESC-ICS,8.3.5,Secure and Correct Processing of ICS Systems,"Adopts transmission security measures, such as cryptography, where feasible, to enable security for ICS information in transit. Thereby, ensuring integrity of transmitted information.",Yes,Company,No
+8.3,DESC-ICS,8.3.6,Secure and Correct Processing of ICS Systems,"Ensures integrity of ICS applications and other relevant ICS software by enabling detection, recording, reporting and protection against unauthorized changes.",Yes,Company,No
+8.3,DESC-ICS,8.3.7,Secure and Correct Processing of ICS Systems,"Wherever feasible, the organization enables automated notifications to designated users upon detection of anomalous changes to the ICS software.",Yes,Company,No
+8.3,DESC-ICS,8.3.8,Secure and Correct Processing of ICS Systems,Enables validation of syntax and content of any input that affects the operation of the ICS environment directly.,Yes,Company,No
+8,DESC-ICS,8.4,"Securing ICS Systems Files, Source Codes and Data",,Yes,Company,Yes
+8.4,DESC-ICS,8.4.1,"Securing ICS Systems Files, Source Codes and Data",Implements restrictive ICS system procedures on the installation and maintenance of software in the operational ICS systems environments.,Yes,Company,No
+8.4,DESC-ICS,8.4.2,"Securing ICS Systems Files, Source Codes and Data",Implements protection controls on the use of testing data.,Yes,Company,No
+8.4,DESC-ICS,8.4.3,"Securing ICS Systems Files, Source Codes and Data",Implements access control procedures on ICS systems/application source codes.,Yes,Company,No
+8.4,DESC-ICS,8.4.4,"Securing ICS Systems Files, Source Codes and Data",Ensures the Operator stations only process authorized executable code and ensures compilers and command windows are disabled.,Yes,Company,No
+8.4,DESC-ICS,8.4.5,"Securing ICS Systems Files, Source Codes and Data",Enables mechanisms to store all previously installed ICS system configurations and enables mechanisms to rollback configurations in case of operational issues.,Yes,Company,No
+8.4,DESC-ICS,8.4.6,"Securing ICS Systems Files, Source Codes and Data",Enables adequate security controls for ICS Information systems in test environments such as authorization control for replication of operational information into test environment and purging of operational information post completion of testing.,Yes,Company,No
+8.4,DESC-ICS,8.4.7,"Securing ICS Systems Files, Source Codes and Data",Restricts access to program source codes only to authorized personnel.,Yes,Company,No
+8.4,DESC-ICS,8.4.8,"Securing ICS Systems Files, Source Codes and Data",Ensures ICS operator stations do not house Program source libraries.,Yes,Company,No
+8.4,DESC-ICS,8.4.9,"Securing ICS Systems Files, Source Codes and Data",Enables change control mechanisms for managing changes to the program code such as updating program code and copying program code.,Yes,Company,No
+8,DESC-ICS,8.5,Managing Changes in Software Development,,Yes,Company,Yes
+8.5,DESC-ICS,8.5.1,Managing Changes in Software Development,"Implements change management controls on the software development processes, whether performed in-house or outsourced.",Yes,Company,No
+8.5,DESC-ICS,8.5.2,Managing Changes in Software Development,Tests and verifies the operational status of all information systems/applications after implementing any change.,Yes,Company,No
+8.5,DESC-ICS,8.5.3,Managing Changes in Software Development,Implements controls to limit the risk of changes to software packages.,Yes,Company,No
+8.5,DESC-ICS,8.5.4,Managing Changes in Software Development,Implements controls to prevent information leakage in all ICS systems/application environments.,Yes,Company,No
+8.5,DESC-ICS,8.5.5,Managing Changes in Software Development,"Implements security controls on outsourced software/ application development covering all stages of the project including source code management, application maintenance etc.",Yes,Company,No
+8,DESC-ICS,8.6,Securing Testing,,Yes,Company,Yes
+8.6,DESC-ICS,8.6.1,Securing Testing,Performs technical security reviews and vulnerability tests to periodically assess technical infrastructure and information systems/ applications security against latest threats and vulnerabilities.,Yes,Company,No
+8.6,DESC-ICS,8.6.2,Securing Testing,Conducts periodic code reviews on all information systems/ applications developed in house or by an external party.,Yes,Company,No
+8.6,DESC-ICS,8.6.3,Securing Testing,Identifies current upgrades and updates available for individual ICS assets and the released versions of the updates compatible to the ICS systems on a periodic basis.,Yes,Company,No
+8.6,DESC-ICS,8.6.4,Securing Testing,Enables provision of test environment for testing patch updates prior to deployment in the actual operational environment to avoid any unwarranted disruption of systems because of system patches.,Yes,Company,No
+8.6,DESC-ICS,8.6.5,Securing Testing,"Enables maintenance of a system inventory capturing information relating to ICS system installed versions, authorized versions, effective versions and released versions and ensures mechanisms to update the inventory at periodic intervals.",Yes,Company,No
+8.6,DESC-ICS,8.6.6,Securing Testing,Ensures patches are applied for system components within the ICSenvironment whenever a vulnerability is identified or as communicated by vendors.,Yes,Company,No
+8,DESC-ICS,8.7,Deployment of ICS Systems/Applications,,Yes,Company,Yes
+8.7,DESC-ICS,8.7.1,Deployment of ICS Systems/Applications,Deploys the ICS systems/ applications into production environment after successful completion of testing & fixing of defects identified.,Yes,Company,No
+8.7,DESC-ICS,8.7.2,Deployment of ICS Systems/Applications,Implements security sign off process to confirm the implementation of security controls on all ICS systems/applications prior to deployment.,Yes,Company,No
+8,DESC-ICS,8.8,Cryptography Controls,,Yes,Company,Yes
+8.8,DESC-ICS,8.8.1,Cryptography Controls,"Develops, distributes and maintains a policy on the use of cryptography and key management wherever applicable (e.g. during development and maintenance of information systems/applications etc.).",Yes,Company,No
+8.8,DESC-ICS,8.8.2,Cryptography Controls,Implements cryptography and key management mechanisms as required by the organization.,Yes,Company,No
+8.8,DESC-ICS,8.8.3,Cryptography Controls,Implements protection and security controls on all cryptographic keys used by the organization in accordance with good industry practices.,Yes,Company,No
+8.8,DESC-ICS,8.8.4,Cryptography Controls,"Wherever applicable, the organization ensures adherence to the Dubai PKI requirements within the ICS:",Yes,Company,No
+8.8,DESC-ICS,8.8.a,Cryptography Controls,Certificate validation by means of validation of the certificate signature.,Yes,Company,No
+8.8,DESC-ICS,8.8.b,Cryptography Controls,Creation of a certification path to an accepted Certification Authority for validation of certificates.,Yes,Company,No
+8.8,DESC-ICS,8.8.c,Cryptography Controls,Validation of certificates by verification of a certificate’s revocation status.,Yes,Company,No
+8.8,DESC-ICS,8.8.d,Cryptography Controls,Enforcement of user control on the corresponding private key.,Yes,Company,No
+8.8,DESC-ICS,8.8.e,Cryptography Controls,Mapping the authenticated identity to a user.,Yes,Company,No
+8.8,DESC-ICS,8.8.5,Cryptography Controls,Enables mechanisms to physically secure the relevant private keys within the ICS environment by means good industry practices.,Yes,Company,No
+8.8,DESC-ICS,8.8.6,Cryptography Controls,Employs mechanisms to record actions taken by a user to define responsibility of the action to the user.,Yes,Company,No
+8.8,DESC-ICS,8.8.7,Cryptography Controls,Deploys Cryptographic encryption mechanisms on the ICS environment after considering impact on system performance and operations.,Yes,Company,No
+,DESC-ICS,9,Environmental and Physical Security,,Yes,Company,Yes
+9,DESC-ICS,9.1,Environmental/Physical Threats Protection Policy and Procedure,,Yes,Company,Yes
+9.1,DESC-ICS,9.1.1,Environmental/Physical Threats Protection Policy and Procedure,"Develops, distributes, and maintains a documented, environmental threats protection policy that addresses the organization’s requirements for placing environmental protection controls.",Yes,Company,No
+9.1,DESC-ICS,9.1.2,Environmental/Physical Threats Protection Policy and Procedure,Supplements the environmental threats protection policy with a documented procedure to facilitate the implementation of the environmental threats protection policy.,Yes,Company,No
+9.1,DESC-ICS,9.1.3,Environmental/Physical Threats Protection Policy and Procedure,"Ensures the Environmental and Physical protection policy and procedures are periodically reviewed and updated; incorporating changes to the ICSenvironment, current threats to the ICS and change in business requirements.",Yes,Company,No
+9,DESC-ICS,9.2,Protection from Environmental Threats,,Yes,Company,Yes
+9.2,DESC-ICS,9.2.1,Protection from Environmental Threats,"Implements adequate protection controls against environmental threats, such as fire, floods, earthquakes, etc.",Yes,Company,No
+9.2,DESC-ICS,9.2.2,Protection from Environmental Threats,"Controls humidity and temperature level on ICS rooms, and continuously monitors it.",Yes,Company,No
+9.2,DESC-ICS,9.2.3,Protection from Environmental Threats,Implements fire suppression and detection systems.,Yes,Company,No
+9.2,DESC-ICS,9.2.4,Protection from Environmental Threats,Implements control for monitoring water leakage at the ICS rooms.,Yes,Company,No
+9.2,DESC-ICS,9.2.5,Protection from Environmental Threats,"Wherever applicable, Protects ICS systems and components from dust by provisioning a filtered environment.",Yes,Company,No
+9.2,DESC-ICS,9.2.6,Protection from Environmental Threats,Deploys suitable alarming mechanisms to indicate unfavorable environmental conditions to facilitate necessary actions from ICS system users and owners.,Yes,Company,No
+9,DESC-ICS,9.3,Secure Working Areas,,Yes,Company,Yes
+9.3,DESC-ICS,9.3.1,Secure Working Areas,"Implements adequate physical security mechanisms in control rooms, datacenters, and other working areas, based on criticality of such areas within the ICS environment.",Yes,Company,No
+9.3,DESC-ICS,9.3.2,Secure Working Areas,Provides employees with guidelines and awareness on the implemented protection controls in the working areas.,Yes,Company,No
+9.3,DESC-ICS,9.3.3,Secure Working Areas,Implements security controls over delivery and loading areas.,Yes,Company,No
+9.3,DESC-ICS,9.3.4,Secure Working Areas,"Enables appropriate Physical Access limitation mechanisms for Control rooms, Electrical rooms, Server rooms etc. within the ICS to prevent unwarranted users from accessing these critical ICS environments.",Yes,Company,No
+9.3,DESC-ICS,9.3.5,Secure Working Areas,Reviews physical access lists to the ICS environment and ensures appropriate access provision in line with user roles and responsibilities and enables removal and addition of users to the access list.,Yes,Company,No
+9.3,DESC-ICS,9.3.6,Secure Working Areas,"Wherever deemed necessary, develops secondary control rooms for ascertaining appropriate operation of ICS if the primary control room becomes inhabitable.",Yes,Company,No
+9.3,DESC-ICS,9.3.7,Secure Working Areas,"Enables mechanisms to monitor physical access to the ICS environment to detect, analyze and respond to physical security incidents.",Yes,Company,No
+9.3,DESC-ICS,9.3.8,Secure Working Areas,Maintains physical/digital records about visitors who access the ICS environment.,Yes,Company,No
+9,DESC-ICS,9.4,Secure Working Areas,,Yes,Company,Yes
+9.4,DESC-ICS,9.4.1,Secure Working Areas,Places ICS systems related equipment in secure and protected locations.,Yes,Company,No
+9.4,DESC-ICS,9.4.2,Secure Working Areas,Protects power equipment and cabling of the ICS environment from damages.,Yes,Company,No
+9.4,DESC-ICS,9.4.3,Secure Working Areas,Implements UPS (uninterruptable power supply) systems to avoid power failures where deemed necessary.,Yes,Company,No
+9.4,DESC-ICS,9.4.4,Secure Working Areas,Implements maintenance procedures for all ICS systems and components.,Yes,Company,No
+9.4,DESC-ICS,9.4.5,Secure Working Areas,Implements adequate security controls on the disposal or re-use of any equipment.,Yes,Company,No
+9.4,DESC-ICS,9.4.6,Secure Working Areas,Enables provisions to physically track the location and movement of ICS assets.,Yes,Company,No
+9.4,DESC-ICS,9.4.7,Secure Working Areas,Ensures appropriate authorization mechanisms prior to movement of ICSequipment outside the premises.,Yes,Company,No
+9.4,DESC-ICS,9.4.8,Secure Working Areas,Maintains records of personnel with authorized access to designated zones within the ICS environment.,Yes,Company,No
+9.4,DESC-ICS,9.4.9,Secure Working Areas,"Enables mechanisms to control ICS environment access to visitors by enabling necessary access control mechanisms such as entry/exit logs, swipe cards, electronic passes etc.",Yes,Company,No
+9,DESC-ICS,9.5,Periodic Testing,,Yes,Company,Yes
+9.5,DESC-ICS,9.5.1,Periodic Testing,Conducts testing and assessment periodically over all implemented environmental and physical protection controls.,Yes,Company,No
+,DESC-ICS,10,Roles and Responsibilities of Human Resources,,Yes,Company,Yes
+10,DESC-ICS,10.1,Prior to Employment Security Controls,,Yes,Company,Yes
+10.1,DESC-ICS,10.1.1,Prior to Employment Security Controls,"Defines security roles and responsibilities of employees, contractors and outsourced employees in alignment with the organization’s ICS Cybersecurity framework.",Yes,Company,No
+10.1,DESC-ICS,10.1.2,Prior to Employment Security Controls,"Documents security roles and responsibilities in the job descriptions and objectives of all employees, contractors and outsourced employees.",Yes,Company,No
+10.1,DESC-ICS,10.1.3,Prior to Employment Security Controls,Conducts screening and background verification for all employment candidates according to the applicable laws and policies of Dubai Government.,Yes,Company,No
+10.1,DESC-ICS,10.1.4,Prior to Employment Security Controls,"Ensures that all employment contracts define security obligations of employees, contractors and outsourced employees, and that approved candidates read and agree to such obligations.",Yes,Company,No
+10.1,DESC-ICS,10.1.5,Prior to Employment Security Controls,"Incorporates ICS cybersecurity awareness as part of induction programs of newly hired employees, contractors and outsourced employees.",Yes,Company,No
+10.1,DESC-ICS,10.1.6,Prior to Employment Security Controls,"Conducts ICS Cybersecurity awareness, learning and training sessions for operators, automation engineers and other personnel working within ICSenvironment.",Yes,Company,No
+10,DESC-ICS,10.2,During Employment Security Controls,,Yes,Company,Yes
+10.2,DESC-ICS,10.2.1,During Employment Security Controls,"Establishes the requirement for the senior management to be responsible for enforcing compliance of their employees, contractors and outsourced employees to the organization’s information security and ICS cybersecurity policies and procedures.",Yes,Company,No
+10.2,DESC-ICS,10.2.2,During Employment Security Controls,"Sets a clear and defined disciplinary action for employees, contractors and outsourced employees who may breach information security and ICS Cybersecurity policies and procedures.",Yes,Company,No
+10.2,DESC-ICS,10.2.3,During Employment Security Controls,"Ensures that all employees, contractors and outsourced employees are provided with information and ICS cybersecurity awareness programs on a regular basis.",Yes,Company,No
+10.2,DESC-ICS,10.2.4,During Employment Security Controls,Ensures periodic ICS Cybersecurity awareness and training sessions for relevant employees on a regular basis.,Yes,Company,No
+10,DESC-ICS,10.3,Termination/ Changes of Employment Security Controls,,Yes,Company,Yes
+10.3,DESC-ICS,10.3.1,Termination/ Changes of Employment Security Controls,Implements security controls on the process of terminating or changing employment.,Yes,Company,No
+10.3,DESC-ICS,10.3.2,Termination/ Changes of Employment Security Controls,Communicates termination responsibilities to the terminated employee in relation to confidentiality agreements and employment contracts.,Yes,Company,No
+10.3,DESC-ICS,10.3.3,Termination/ Changes of Employment Security Controls,Implements a process for returning all organization’s assets upon termination of employment.,Yes,Company,No
+10.3,DESC-ICS,10.3.4,Termination/ Changes of Employment Security Controls,Implements a process for revoking or changing access rights and privileges to the ICS environment upon termination or change of employment.,Yes,Company,No
+,DESC-ICS,11,Compliance and Audit,,Yes,Company,Yes
+11,DESC-ICS,11.1,Compliance with Federal and Local Government Legal Requirements,,Yes,Company,Yes
+11.1,DESC-ICS,11.1.1,Compliance with Federal and Local Government Legal Requirements,Ensures compliance with the following laws and regulations:,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.a,Compliance with Federal and Local Government Legal Requirements,Federal Law No. 1 of Year 2006 on Electronic Commerce and Transactions.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.b,Compliance with Federal and Local Government Legal Requirements,Federal Decree-Law No. 5 of 2012 on Combating Cybercrimes.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.c,Compliance with Federal and Local Government Legal Requirements,Transactions and electronic commerce Law No. 2 issued in Year 2002 by Dubai Government.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.d,Compliance with Federal and Local Government Legal Requirements,The Executive Council of Dubai Government Resolution Number (13)issued in Year 2012 for Information Security Regulation.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.e,Compliance with Federal and Local Government Legal Requirements,The Government of Dubai Human Resources Management Law No. (27)of 2006 and its amendment.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.f,Compliance with Federal and Local Government Legal Requirements,Dubai Electronic Security Centre Law No.11 of 2014.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.g,Compliance with Federal and Local Government Legal Requirements,Law No.26 of 2015 Regulating Data Dissemination and Exchange in the Emirate of Dubai.,Yes,Company,No
+11.1.1,DESC-ICS,11.1.1.h,Compliance with Federal and Local Government Legal Requirements,Any other laws pertaining to ICS security.,Yes,Company,No
+11,DESC-ICS,11.2,Compliance Controls,,Yes,Company,Yes
+11.2,DESC-ICS,11.2.1,Compliance Controls,Identifies the laws or regulations that are applicable to the organization’s ICSenvironment and ensures adherence to the ICS security framework.,Yes,Company,No
+11.2,DESC-ICS,11.2.2,Compliance Controls,Develops and distributes policies and procedures for conducting periodic security audits with the organization’s ICS environment.,Yes,Company,No
+11.2,DESC-ICS,11.2.3,Compliance Controls,"Ensures mechanisms to update the Audit and Compliance policy and procedures to accommodate for changes in ICS risks, ICS technical and process environment and business requirements.",Yes,Company,No
+11.2,DESC-ICS,11.2.4,Compliance Controls,"Develops, distributes and maintains a documented Intellectual Property Rights (IPR) policy that defines the legal obligations pertaining to the use ofICS assets (e.g. hardware, software, etc.).",Yes,Company,No
+11.2,DESC-ICS,11.2.5,Compliance Controls,Ensures compliance with Intellectual Property Rights (e.g. software license agreements).,Yes,Company,No
+11.2,DESC-ICS,11.2.6,Compliance Controls,"Prohibits employees from manipulating, making or distributing unauthorized copies of copyrighted/licensed materials, software or applications.",Yes,Company,No
+11.2,DESC-ICS,11.2.7,Compliance Controls,"Ensures validation of security controls deployed during installation of ICSassets for accuracy and ensures adherence to change management controls defined within the ICS Cybersecurity policy by means of reviewing audit trails, approvals etc.",Yes,Company,No
+11,DESC-ICS,11.3,Protection of Private Information of Individuals and Corporates,,Yes,Company,Yes
+11.3,DESC-ICS,11.3.1,Protection of Private Information of Individuals and Corporates,"Develops, distributes and maintains a privacy policy that addresses the legal requirements for the prevention of misuse of personal information of the entity's customers, for any reason.",Yes,Company,No
+11.3,DESC-ICS,11.3.2,Protection of Private Information of Individuals and Corporates,"Develops, distributes and maintains a formal procedure detailing the protection measures required for the processing of private data and information.",Yes,Company,No
+11.3,DESC-ICS,11.3.3,Protection of Private Information of Individuals and Corporates,Conducts continuous awareness sessions on the requirements of protecting private data and information for the responsible personnel.,Yes,Company,No
+11.3,DESC-ICS,11.3.4,Protection of Private Information of Individuals and Corporates,"Restricts, minimizes and monitors access to personal and private data, and applies proper controls on the process of collecting, processing and transmission of personal data, which should be on «a need-to-know» basis.",Yes,Company,No
+11.3,DESC-ICS,11.3.5,Protection of Private Information of Individuals and Corporates,Sets proper accountability procedures in the event of any private information and personal data leakage.,Yes,Company,No
+11,DESC-ICS,11.4,Compliance with ICS Security Policies and Standards,,Yes,Company,Yes
+11.4,DESC-ICS,11.4.1,Compliance with ICS Security Policies and Standards,Conducts periodic reviews to verify compliance of the implemented ICSsecurity policies and procedures.,Yes,Company,No
+11.4,DESC-ICS,11.4.2,Compliance with ICS Security Policies and Standards,Conducts periodic technical reviews on ICS systems to verify compliance with the security controls/standard.,Yes,Company,No
+11,DESC-ICS,11.5,Audit of ICS Security Controls Implementation,,Yes,Company,Yes
+11.5,DESC-ICS,11.5.1,Audit of ICS Security Controls Implementation,Plans and conducts internal periodic audits to verify and report effectiveness of the implementation of the ICS Security controls.,Yes,Company,No
+11,DESC-ICS,11.6,Audit of Information Security Regulation Implementation,,Yes,Company,Yes
+11.6,DESC-ICS,11.6.1,Audit of Information Security Regulation Implementation,"Develops, distributes and maintains a policy for conducting periodic ICSsecurity audits (risk-based audit) covering governance, operations and assurance aspects of the organization’s operations.",Yes,Company,No
+11.6,DESC-ICS,11.6.2,Audit of Information Security Regulation Implementation,"Develops, distributes and maintains a documented procedure, explaining the process for execution, to facilitate the implementation of the ICS security audit policy.",Yes,Company,No
+11.6,DESC-ICS,11.6.3,Audit of Information Security Regulation Implementation,"Plans and conducts internal periodic audits to verify and report effectiveness of the implementation of the ICS Security & applicable standards, in line with the defined policy and procedure.",Yes,Company,No
+,DESC-ICS,12,ICS Security Key Performance Indicators,,Yes,Company,Yes
+12,DESC-ICS,12.1,ICS Security Key Performance Indicators,,Yes,Company,Yes
+12.1,DESC-ICS,12.1.1,ICS Security Key Performance Indicators,"Develops, selects and implements a set of ICS Security Key Performance Indicators (KPIs) that are:",Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.a,ICS Security Key Performance Indicators,In support of the government organization strategic and operational planning processes to secure the organization’s mission.,Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.b,ICS Security Key Performance Indicators,Integrated into the annual reporting of effectiveness of the government organization's ICS security controls.,Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.c,ICS Security Key Performance Indicators,Defined to assist in monitoring compliance with the ICS Cybersecurity Regulation.,Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.d,ICS Security Key Performance Indicators,"Reviewed regularly and used to support policy, resources allocation, budget decisions, and as an assessment of ICS security program posture and operational risks.",Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.e,ICS Security Key Performance Indicators,Used to address issues and deficiencies and take corrective actions such as revising policies and procedures or provide information security trainings for employees.,Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.f,ICS Security Key Performance Indicators,"Built from inputs of a variety of organization’s stakeholders, such as ICSoperations, incident response team, human resources, physical security team, or others using different data sources, such as risk assessments, penetration testing, and continuous monitoring.",Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.g,ICS Security Key Performance Indicators,"Yielding quantifiable information for comparison purposes, while using formulas for analysis, and tracking changes using the same point of reference. Percentage, average or absolute numbers can be used, depending on the activity being measured.",Yes,Company,No
+12.1.1,DESC-ICS,12.1.1.h,ICS Security Key Performance Indicators,Measured over consistent and repeatable ICS security processes.,Yes,Company,No
+12.1,DESC-ICS,12.1.2,ICS Security Key Performance Indicators,Integrates ICS security measurements and Key Performance Indicators(KPIs) in organization’s business processes and assigns business process owners the responsibility of achieving such measures.,Yes,Company,No
+12.1,DESC-ICS,12.1.3,ICS Security Key Performance Indicators,Approves the organization’s ICS Security measurements and Key Performance Indicators (KPIs) by the higher management of the organization.,Yes,Company,No
+12.1,DESC-ICS,12.1.4,ICS Security Key Performance Indicators,Conducts periodic reviews on the results of ICS security measurements to ensure continual improvement of the ICS Cybersecurity program within the organization.,Yes,Company,No
+12.1,DESC-ICS,12.1.5,ICS Security Key Performance Indicators,Records actions and events that could have an impact on the effectiveness or performance of the ICS Cybersecurity standard.,Yes,Company,No
+12,DESC-ICS,12.2,ICS Cybersecurity Dashboard,,Yes,Company,Yes
+12.2,DESC-ICS,12.2.1,ICS Cybersecurity Dashboard,"Implements, as necessary, an integrated dashboard (or incorporates into an existing organization Performance Measurement tool) for combining all measured ICS Cybersecurity KPIs to be reviewed and monitored in a periodic manner, by the senior management and the responsible stakeholders, to ease the decision-making process, and facilitate the overall planning for  Cybersecurity program.",Yes,Company,No
+,DESC-ICS,13,Cloud Security,,Yes,Company,Yes
+13,DESC-ICS,13.1,Cloud Security Policy/Procedure,,Yes,Company,Yes
+13.1,DESC-ICS,13.1.1,Cloud Security Policy/Procedure,"Develops, distributes and maintains a documented cloud security policy that addresses the organization’s requirements for overall cloud management process and outlines roles and responsibilities of relevant stakeholders.",Yes,Company,No
+13.1,DESC-ICS,13.1.2,Cloud Security Policy/Procedure,"Develops, distributes and maintains a cloud security procedure that provides implementation details for establishing and managing secured cloud service environment.",Yes,Company,No
+13.1,DESC-ICS,13.1.3,Cloud Security Policy/Procedure,"Conducts periodic reviews of cloud security policy and procedure or if significant changes occur to ensure their continuing suitability, adequacy, and effectiveness.",Yes,Company,No
+13,DESC-ICS,13.2,Logical Access Control,,Yes,Company,Yes
+13.2,DESC-ICS,13.2.1,Data Location,,Yes,Company,Yes
+13.2.1,DESC-ICS,13.2.1.1,Data Location,"Prevents handling and storing classified data with a Cloud Service Provider (CSP), outside the legal jurisdiction or geographical boundaries of the United Arab Emirates, including for CSP’s Backup or Disaster Recovery purposes.",Yes,Company,No
+13.2,DESC-ICS,13.2.2,Data Classification and Handling,,Yes,Company,Yes
+13.2.2,DESC-ICS,13.2.2.1,Data Classification and Handling,Defines and communicates required security controls to Cloud Service Provider (CSP) for handling of data in accordance to the applicable laws& regulations (in line with ISR Ref. 11.1 and 11.2).,Yes,Company,No
+13.2,DESC-ICS,13.2.3,Architecture and Deployment Model,,Yes,Company,Yes
+13.2.3,DESC-ICS,13.2.3.1,Architecture and Deployment Model,Ensures adequate cloud security controls are implemented by Cloud Service Provider (CSP) as per architecture and deployment model approved by the organization.,Yes,Company,No
+13.2,DESC-ICS,13.2.4,Service Agreements,,Yes,Company,Yes
+13.2.4,DESC-ICS,13.2.4.1,Service Agreements,Ensures through a documented agreement that the Cloud Service Provider (CSP) has no ownership rights on the stored data regardless of the format or storage medium.,Yes,Company,No
+13.2.4,DESC-ICS,13.2.4.2,Service Agreements,Develops and maintains a documented agreement with Cloud Service Provider (CSP) addressing the following ICS security requirements as a minimum:,Yes,Company,No
+13.2.4.2,DESC-ICS,13.2.4.2.a,Service Agreements,ICS security risks and mitigation,Yes,Company,No
+13.2.4.2,DESC-ICS,13.2.4.2.b,Service Agreements,Data protection and storage,Yes,Company,No
+13.2.4.2,DESC-ICS,13.2.4.2.c,Service Agreements,ICS security incidents handling,Yes,Company,No
+13.2.4.2,DESC-ICS,13.2.4.2.d,Service Agreements,"Change, Recovery and Restoration.",Yes,Company,No
+13.2,DESC-ICS,13.2.5,Data Portability and Continuity,,Yes,Company,Yes
+13.2.5,DESC-ICS,13.2.5.1,Data Portability and Continuity,Ensures that Cloud Service Provider (CSP) has the adequate measures and processes to support data portability whenever the organization decides to move its data.,Yes,Company,No
+13.2.5,DESC-ICS,13.2.5.2,Data Portability and Continuity,"Ensures cloud security controls are implemented by Cloud Service Provider (CSP), addressing organization’s requirements for periodic testing of the continuity and disaster recovery plans and communicating the results to organization.",Yes,Company,No
+13.2,DESC-ICS,13.2.6,Compliance and Monitoring,,Yes,Company,Yes
+13.2.6,DESC-ICS,13.2.6.1,Compliance and Monitoring,Conducts periodic reviews or audits to verify Cloud Service Provider’s(CSPs) compliance with the applicable security policies and contractual requirements.,Yes,Company,No

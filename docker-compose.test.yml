@@ -1,0 +1,32 @@
+version: '3.4'
+
+services:
+    app:
+        image: laravel-docker-development
+        depends_on:
+            - mysql
+        container_name: lango-test-container
+        environment:
+            APP_ENV: testing
+            DOCKER_ENV: test
+            DB_DATABASE: langotest
+            DB_USERNAME: langotest
+            APP_KEY: AckfSECXIvnK5r28GVIWUAxmbBSjTsmF
+            FILESYSTEM_DISK: public
+        volumes:
+            - .:/var/www/html
+            - node_modules:/var/www/html/node_modules
+            - storage:/var/www/html/storage
+            - vendor:/var/www/html/vendor
+    mysql:
+        #image: mariadb/server:10.1.38
+        image: circleci/mysql:5.7.27
+        ports:
+            - 13306:3306
+        tmpfs:
+            - /var/lib/mysql
+
+volumes:
+    node_modules:
+    vendor:
+    storage:

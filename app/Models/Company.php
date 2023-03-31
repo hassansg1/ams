@@ -1,0 +1,70 @@
+<?php
+
+namespace App\Models;
+
+
+use App\Http\Traits\Observable;
+use App\Scopes\LocationScope;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Kalnoy\Nestedset\NodeTrait;
+
+class Company extends Model
+{
+    use HasFactory;
+    use NodeTrait;
+    use Observable;
+
+    protected $table = 'locations';
+
+    public static $type = 'companies';
+
+    protected $guarded = [];
+
+    protected static function boot()
+    {
+        parent::boot();
+
+        return static::addGlobalScope(new LocationScope(self::$type));
+    }
+
+
+    public $rules =
+        [
+            'rec_id' => 'required | unique:locations,rec_id',
+            'short_name' => 'required',
+        ];
+
+    protected $appends = ['show_name', 'parentable_type', 'parentable_id'];
+
+    public function getShowNameAttribute()
+    {
+        return $this->long_name;
+    }
+    public function getParentableTypeAttribute()
+    {
+        return $this->name;
+    }
+    public function getParentableIdAttribute()
+    {
+        return '';
+    }
+
+    /**
+     * @param $item
+     * @param $request
+     * @return mixed
+     */
+    public function saveFormData($item, $request)
+    {
+        if (isset($request->short_name)) $item->name = $request->short_name;
+        if (isset($request->short_name)) $item->short_name = $request->short_name;
+        if (isset($request->long_name)) $item->long_name = $request->long_name;
+        if (isset($request->rec_id)) $item->rec_id = $request->rec_id;
+        $item->type = self::$type;
+
+        $item->save();
+        $item->saveAsRoot();
+        return $item;
+    }
+}

@@ -1,0 +1,15 @@
+@extends('layouts.master')
+
+@section('title') {{ $heading }} @endsection
+@section('content')
+    @include('layouts.top_heading',['heading' => 'Edit '. $heading,'goBack' => route($route.'.index')])
+    <div class="row">
+        <div class="col-lg-12">
+            @include($route.'.edit_form')
+            @include('components.asset_popups')
+        </div>
+    </div>
+@endsection
+@section('script-bottom')
+    @include('computer.script')
+@endsection
